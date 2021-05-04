@@ -1,5 +1,3 @@
-# rpgProject
-
 const readlineSync = require('readline-sync');
 
 const name = readlineSync.question('Enter your name! ');
